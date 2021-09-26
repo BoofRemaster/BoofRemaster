@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BoofRemaster
 
-- 👀 I’m interested in gaming, DnD, racing (particularly Formula One).
+- 👀 I’m interested in gaming, DnD, and especially racing!
 
-- 🌱 I’m currently learning Rust Language.
+- 🌱 I’m currently focused on Python3.
 
 - 💞️ I’m looking to collaborate on whatever will make me better at coding overall.
 
